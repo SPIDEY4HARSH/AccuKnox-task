@@ -1,0 +1,50 @@
+{
+  "dashboard": {
+    "categories": [
+      {
+        "id": "cat1",
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          { "id": "w1", "title": "Cloud Compliance Status", "content": "Random text for widget 1" },
+          { "id": "w2", "title": "Top 5 Misconfigurations", "content": "Random text for widget 2" },
+          { "id": "w3", "title": "Policy Violations Trend", "content": "Random text for widget 3" },
+          { "id": "w4", "title": "IAM Risk Summary", "content": "Random text for widget 4" },
+          { "id": "w5", "title": "Cloud Asset Distribution", "content": "Random text for widget 5" }
+        ]
+      },
+      {
+        "id": "cat2",
+        "name": "Network Security Overview",
+        "widgets": [
+          { "id": "w6", "title": "Firewall Rules Overview", "content": "Random text for widget 6" },
+          { "id": "w7", "title": "Top Attack Sources", "content": "Random text for widget 7" },
+          { "id": "w8", "title": "Intrusion Detection Alerts", "content": "Random text for widget 8" },
+          { "id": "w9", "title": "VPN Usage Analytics", "content": "Random text for widget 9" },
+          { "id": "w10", "title": "Blocked IP Trends", "content": "Random text for widget 10" }
+        ]
+      },
+      {
+        "id": "cat3",
+        "name": "Application Security Insights",
+        "widgets": [
+          { "id": "w11", "title": "OWASP Vulnerabilities", "content": "Random text for widget 11" },
+          { "id": "w12", "title": "Code Scan Summary", "content": "Random text for widget 12" },
+          { "id": "w13", "title": "Dependency Risks", "content": "Random text for widget 13" },
+          { "id": "w14", "title": "Pen Test Findings", "content": "Random text for widget 14" },
+          { "id": "w15", "title": "Bug Bounty Reports", "content": "Random text for widget 15" }
+        ]
+      },
+      {
+        "id": "cat4",
+        "name": "User & Access Monitoring",
+        "widgets": [
+          { "id": "w16", "title": "Login Activity", "content": "Random text for widget 16" },
+          { "id": "w17", "title": "Privileged User Actions", "content": "Random text for widget 17" },
+          { "id": "w18", "title": "Failed Login Attempts", "content": "Random text for widget 18" },
+          { "id": "w19", "title": "MFA Adoption Rate", "content": "Random text for widget 19" },
+          { "id": "w20", "title": "User Role Distribution", "content": "Random text for widget 20" }
+        ]
+      }
+    ]
+  }
+}
